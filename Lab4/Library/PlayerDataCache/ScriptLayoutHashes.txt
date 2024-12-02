@@ -1,6 +1,6 @@
-WindowsStandalone
+WebGL
 PlayerPath?
-C:/Users/super/Desktop/Platform.exe
+C:/Users/super/Desktop/Build
 SceneListBegin?
 Assets/scene.unity
 SceneListEnd?
@@ -148,7 +148,7 @@ ccaf2ec01b8af4d01531b27df7a7b876 Assembly-CSharp.dll:.Task2
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 67a5f2c97205d2e41a8ed7c7ce898f6e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
 67a5f2c97205d2e41a8ed7c7ce898f6e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
-291297a94f5ac2ebd0b62f42478bde5f Assembly-CSharp.dll:.InstrumentController
+5641ee2c0a9e4769425766e3eeb287b5 Assembly-CSharp.dll:.InstrumentController
 9e0ef5bf862444b5dc48b5a99554ce7c UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioListenerExtension
 e0f7ffd5d5c2abe4b2e16569a21163da UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 67a5f2c97205d2e41a8ed7c7ce898f6e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension

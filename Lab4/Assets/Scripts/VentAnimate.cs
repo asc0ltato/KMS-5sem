@@ -1,21 +1,27 @@
 ﻿using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class VentAnimate : MonoBehaviour {
+public class VentAnimate : MonoBehaviour, IPointerClickHandler
+{
+    Animator anim;
+    private bool isAnimating = false;
 
-    Animator anim;               
     void Start()
     {
         anim = GetComponent<Animator>();  
     }
-    void Update()
+
+    public void OnPointerClick(PointerEventData eventData)
     {
-        if (Input.GetKeyDown(KeyCode.Q))
+        isAnimating = !isAnimating;
+
+        if (isAnimating)
         {
-            anim.SetTrigger("hittenOn");
+            anim.SetTrigger("hittenOn");  
         }
-        if (Input.GetKeyDown(KeyCode.E))
+        else
         {
-            anim.SetTrigger("hittenOff");
+            anim.SetTrigger("hittenOff");  
         }
     }
 }

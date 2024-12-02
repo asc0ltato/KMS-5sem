@@ -1,19 +1,25 @@
 ﻿using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class PereklAnimate : MonoBehaviour
+public class PereklAnimate : MonoBehaviour, IPointerClickHandler
 {
     Animator anim;
+    private bool isAnimating = false;
+
     void Start()
     {
         anim = GetComponent<Animator>();
     }
-    void Update()
+
+    public void OnPointerClick(PointerEventData eventData)
     {
-        if (Input.GetKeyDown(KeyCode.R))
+        isAnimating = !isAnimating;
+
+        if (isAnimating)
         {
             anim.SetTrigger("hittenOn");
         }
-        if (Input.GetKeyDown(KeyCode.T))
+        else
         {
             anim.SetTrigger("hittenOff");
         }

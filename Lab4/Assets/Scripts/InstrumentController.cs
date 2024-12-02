@@ -1,7 +1,9 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class InstrumentController : MonoBehaviour
+public class InstrumentController : MonoBehaviour, IPointerClickHandler
 {
     public Transform voltmeter;
     public Transform ammeter;
@@ -9,11 +11,13 @@ public class InstrumentController : MonoBehaviour
     public TextMesh lowerTempText;
     public TextMesh upperTempText;
 
-    public Animator anim1; 
-    public Animator anim2;
+    public Animator fanAnimator; 
+    public Animator switchAnimator; 
+    public GameObject fanObject; 
+    public GameObject switchObject;  
 
-    private bool isActivated = false;  
-    private bool isDeactivating = false;
+    private bool isFanAnimating = false;  
+    private bool areInstrumentsActive = false; 
     private bool voltmeterTarget = false;
     private bool ammeterTarget = false;
 
@@ -31,9 +35,9 @@ public class InstrumentController : MonoBehaviour
 
     // Температура
     private float lowerTempMin = 0f;
-    private float lowerTempMax = 125f;
+    private float lowerTempMax = 200f;
     private float upperTempMin = 0f;
-    private float upperTempMax = 200f;
+    private float upperTempMax = 125f;
     private float tempSpeed = 0.1f;
     private float lowerTempSpeed = 0.1f;
     private float upperTempSpeed = 0.01f;
@@ -45,6 +49,8 @@ public class InstrumentController : MonoBehaviour
 
     void Start()
     {
+        fanAnimator = fanObject.GetComponent<Animator>();
+        switchAnimator = switchObject.GetComponent<Animator>();
         SetNeedleRotation(voltmeter, voltmeterAngle);
         SetNeedleRotation(ammeter, ammeterAngle);
         lowerTempText.text = FormatTemperature(lowerTempMin);
@@ -52,50 +58,50 @@ public class InstrumentController : MonoBehaviour
         water.localScale = new Vector3(water.localScale.x, water.localScale.y, minScaleZ);
     }
 
+    public void OnPointerClick(PointerEventData eventData)
+    {
+        if (eventData.pointerCurrentRaycast.gameObject == fanObject)
+        {
+            isFanAnimating = !isFanAnimating;
+
+            if (isFanAnimating)
+            {
+                fanAnimator.SetTrigger("hittenOn");  
+                Debug.Log("Fan Animation Started");
+            }
+            else
+            {
+                fanAnimator.SetTrigger("hittenOff");  
+                Debug.Log("Fan Animation Stopped");
+            }
+        }
+        else if (eventData.pointerCurrentRaycast.gameObject == switchObject)
+        {
+            areInstrumentsActive = !areInstrumentsActive;
+
+            if (areInstrumentsActive)
+            {
+                switchAnimator.SetTrigger("hittenOn");  
+                Debug.Log("Instruments Activated");
+            }
+            else
+            {
+                switchAnimator.SetTrigger("hittenOff");  
+                Debug.Log("Instruments Deactivated");
+            }
+        }
+    }
+
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            anim1.SetTrigger("hittenOn");
-        }
-
-        if (Input.GetKeyDown(KeyCode.R))
-        {
-            anim2.SetTrigger("hittenOn");
-            ActivateInstruments();
-        }
-
-        if (Input.GetKeyDown(KeyCode.E))
-        {
-            anim2.SetTrigger("hittenOff");
-        }
-
-        if (Input.GetKeyDown(KeyCode.T))
-        {
-            anim1.SetTrigger("hittenOff");
-            DeactivateInstruments();
-        }
-
-        if (isActivated)
+        if (areInstrumentsActive)
         {
             UpdateInstrumentsActivation();
         }
-        else if (isDeactivating)
+        else
         {
             UpdateInstrumentsDeactivation();
         }
-    }
-
-    private void ActivateInstruments()
-    {
-        isActivated = true;
-        isDeactivating = false;
-    }
-
-    private void DeactivateInstruments()
-    {
-        isActivated = false;
-        isDeactivating = true;
     }
 
     private void UpdateInstrumentsActivation()

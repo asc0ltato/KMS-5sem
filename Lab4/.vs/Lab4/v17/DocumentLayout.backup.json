@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\tablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|c:\\users\\super\\desktop\\\u043A\u043C\u0441\\lab4\\assets\\scripts\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\pereklanimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pereklanimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\instrumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|c:\\users\\super\\desktop\\\u043A\u043C\u0441\\lab4\\assets\\scripts\\instrumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\instrumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\helpbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helpbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\ventanimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ventanimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\pereklanimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pereklanimate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\tablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\task3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameramover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\helpbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helpbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\camera1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camera1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\buttontaskhandler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttontaskhandler1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85334C50-B5EE-9F24-D65F-52659F4C4D93}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\InstrumentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,100 +102,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ButtonHandler.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\ButtonHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonHandler.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\ButtonHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ButtonHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:05:47.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "InstrumentController.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\InstrumentController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InstrumentController.cs",
               "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\InstrumentController.cs",
               "RelativeToolTip": "Assets\\Scripts\\InstrumentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAGIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:13.79Z"
+              "WhenOpened": "2024-11-25T12:48:13.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HelpButtonHandler.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\HelpButtonHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\HelpButtonHandler.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\HelpButtonHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\HelpButtonHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "VentAnimate.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\VentAnimate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VentAnimate.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\VentAnimate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VentAnimate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:12.728Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CameraMover.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\CameraMover.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMover.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\CameraMover.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraMover.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:11.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PereklAnimate.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\PereklAnimate.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PereklAnimate.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\PereklAnimate.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PereklAnimate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:09.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TableScript.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\TableScript.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TableScript.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\TableScript.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TableScript.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:05.135Z",
+              "WhenOpened": "2024-11-25T12:48:03.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Task1.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task1.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Task1.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task1.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Task1.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Title": "PereklAnimate.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\PereklAnimate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PereklAnimate.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\PereklAnimate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PereklAnimate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:47:38.658Z"
+              "WhenOpened": "2024-11-25T12:48:09.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Task3.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task3.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Task3.cs",
@@ -200,31 +158,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VentAnimate.cs",
-              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\VentAnimate.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\VentAnimate.cs",
-              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\VentAnimate.cs",
-              "RelativeToolTip": "Assets\\Scripts\\VentAnimate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:48:03.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task2.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Task2.cs",
               "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task2.cs",
               "RelativeToolTip": "Assets\\Scripts\\Task2.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T12:28:04.418Z"
+              "WhenOpened": "2024-11-25T12:28:04.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task1.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Task1.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Task1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Task1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:47:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableScript.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\TableScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TableScript.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\TableScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TableScript.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:48:05.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ButtonTaskHandler1.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\ButtonTaskHandler1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonTaskHandler1.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\ButtonTaskHandler1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonTaskHandler1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:49:03.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Camera1.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Camera1.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera1.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\Camera1.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera1.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T06:48:06.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraMover.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\CameraMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraMover.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\CameraMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:48:11.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HelpButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\HelpButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HelpButtonHandler.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\HelpButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HelpButtonHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:48:12.728Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "ButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\ButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonHandler.cs",
+              "ToolTip": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Scripts\\ButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:05:47.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Task2.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Task2.cs",
               "RelativeDocumentMoniker": "Assets\\Task2.cs",
@@ -236,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "TableScript.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\TableScript.cs",
               "RelativeDocumentMoniker": "Assets\\TableScript.cs",
@@ -248,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Task1.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Task1.cs",
               "RelativeDocumentMoniker": "Assets\\Task1.cs",
@@ -260,7 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Camera1.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\Camera1.cs",
               "RelativeDocumentMoniker": "Assets\\Camera1.cs",
@@ -272,7 +305,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "HelpButtonHandler.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\HelpButtonHandler.cs",
               "RelativeDocumentMoniker": "Assets\\HelpButtonHandler.cs",
@@ -284,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "ButtonHandler.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\ButtonHandler.cs",
               "RelativeDocumentMoniker": "Assets\\ButtonHandler.cs",
@@ -296,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ButtonTaskHandler1.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\ButtonTaskHandler1.cs",
               "RelativeDocumentMoniker": "Assets\\ButtonTaskHandler1.cs",
@@ -308,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "InstrumentController.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\InstrumentController.cs",
               "RelativeDocumentMoniker": "Assets\\InstrumentController.cs",
@@ -319,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "PereklAnimate.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\PereklAnimate.cs",
               "RelativeDocumentMoniker": "Assets\\PereklAnimate.cs",
@@ -331,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "VentAnimate.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\VentAnimate.cs",
               "RelativeDocumentMoniker": "Assets\\VentAnimate.cs",
@@ -343,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "CameraMover.cs",
               "DocumentMoniker": "C:\\Users\\super\\Desktop\\\u041A\u041C\u0421\\Lab4\\Assets\\CameraMover.cs",
               "RelativeDocumentMoniker": "Assets\\CameraMover.cs",
