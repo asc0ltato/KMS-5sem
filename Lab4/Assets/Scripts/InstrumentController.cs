@@ -39,8 +39,8 @@ public class InstrumentController : MonoBehaviour, IPointerClickHandler
     private float upperTempMin = 0f;
     private float upperTempMax = 125f;
     private float tempSpeed = 0.1f;
-    private float lowerTempSpeed = 0.1f;
-    private float upperTempSpeed = 0.01f;
+    private float lowerTempSpeed = 0.4f;
+    private float upperTempSpeed = 0.3f;
 
     // Вода
     private float maxScaleZ = 1f;
@@ -148,7 +148,7 @@ public class InstrumentController : MonoBehaviour, IPointerClickHandler
 
         if (upperTempMin < upperTempMax)
         {
-            upperTempMin = Mathf.PingPong(Time.time * upperTempSpeed, upperTempMax - upperTempMin) + upperTempMin;
+            upperTempMin = Mathf.Lerp(upperTempMin, upperTempMax, Time.deltaTime * upperTempSpeed);
             upperTempText.text = FormatTemperature(upperTempMin);
         }
 

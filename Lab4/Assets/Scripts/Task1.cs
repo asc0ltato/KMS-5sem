@@ -8,8 +8,11 @@ public class Task1 : MonoBehaviour
     public Button nextButton;
     public Button nextButton2;
 
-    private bool isFirstKeyTriggered = false;
-    private bool isSecondKeyTriggered = false;
+    private bool isAnim1Finished = false;
+    private bool isAnim2Finished = false;
+
+    private string anim1StateName = "PlayForward"; 
+    private string anim2StateName = "PereklForward";
 
     void Start()
     {
@@ -19,19 +22,20 @@ public class Task1 : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Q) && !isFirstKeyTriggered)
+        AnimatorStateInfo anim1State = anim1.GetCurrentAnimatorStateInfo(0);
+        AnimatorStateInfo anim2State = anim2.GetCurrentAnimatorStateInfo(0);
+
+        if (anim1State.IsName(anim1StateName) && anim1State.normalizedTime >= 1f && !isAnim1Finished)
         {
-            anim1.SetTrigger("hittenOn");
-            isFirstKeyTriggered = true;
+            isAnim1Finished = true;
         }
 
-        if (Input.GetKeyDown(KeyCode.R) && !isSecondKeyTriggered)
+        if (anim2State.IsName(anim2StateName) && anim2State.normalizedTime >= 1f && !isAnim2Finished)
         {
-            anim2.SetTrigger("hittenOn");
-            isSecondKeyTriggered = true;
+            isAnim2Finished = true;
         }
 
-        if (isFirstKeyTriggered && isSecondKeyTriggered)
+        if (isAnim1Finished && isAnim2Finished)
         {
             nextButton.interactable = true;
         }
